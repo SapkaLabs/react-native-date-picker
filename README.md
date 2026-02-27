@@ -1,3 +1,6 @@
+# NOTE
+The original repo is no longer maintained for now. 
+
 # React Native Date Picker [![npm](https://img.shields.io/npm/v/react-native-date-picker.svg)](https://www.npmjs.com/package/react-native-date-picker) [![npm](https://img.shields.io/npm/dm/react-native-date-picker.svg)](https://www.npmjs.com/package/react-native-date-picker)
 
 This is a React Native Date Picker with following main features:
